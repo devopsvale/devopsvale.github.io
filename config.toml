@@ -1,7 +1,7 @@
 languageCode = "pt-BR"
 title = "DevOps Vale"
 theme = "crab"
-baseurl = ""
+baseurl = "https://devopsvale.surge.sh/"
 
 [params]
 mainSections = ["blog", "features"]
